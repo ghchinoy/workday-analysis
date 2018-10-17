@@ -76,9 +76,9 @@ func listOperations(xmlfile string) (string, []string, error) {
 	xml.Unmarshal(b, &wsdl)
 	for _, p := range wsdl.PortTypes {
 		desc = p.Documentation
-		//fmt.Printf("\t%s\n", p.Documentation)
+//		fmt.Printf("\t%s\n", p.Documentation)
 		for _, o := range p.Operations {
-			//fmt.Printf("\t %s\n", o.Name)
+//			fmt.Printf("\t %s\n", o.Name)
 			operations = append(operations,o.Name)
 		}
 	}

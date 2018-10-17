@@ -1,0 +1,44 @@
+"Absence_Management.wsdl","The Absence Management Web Service contains operations that expose absence-related data, including Employee Time Off and Absence Inputs for time off and accrual adjustments and overrides, and Leave Requests, in Workday Human Capital Management Business Services.",11
+"Academic_Advising.wsdl","Web Service for retrieving objects related to Academic Advising, such as Student Academic Requirement Assignments.",4
+"Academic_Foundation.wsdl","Public Web Service for creating, editing and retrieving the foundational objects for the Student System, such as Programs of Study, Educational Institutions, and other other objects with cross-module uses.",64
+"Admissions.wsdl","Web Service for creating, editing and retrieving objects related to Admissions, such as Applicants.",19
+"Adoption.wsdl","Adoption Web Service Operations.",2
+"Benefits_Administration.wsdl","The Benefits Administration Web Service contains operations that expose Workday Human Capital Management Business Services benefits-related data.",27
+"Campus_Engagement.wsdl","Public Web Service for creating, editing and retrieving objects related to planning and organizing communication between Student Prospects and Recruiters.",1
+"Cash_Management.wsdl","The Cash Management  Web Service contains operations that expose Workday Financials Cash Management data. It includes data relative to Banking.",89
+"Compensation.wsdl","The Compensation Web Service contains operations that expose Workday Human Capital Management Business Services compensation-related data.",43
+"Compensation_Review.wsdl","The Compensation Review Web Service contains operations that expose Workday Human Capital Management Business Services compensation review related data.",8
+"Dynamic_Document_Generation.wsdl","Web service for creating, editing and retrieving objects related to Document Templates, such as Text Blocks and Text Block Categories.",4
+"External_Integrations.wsdl","The External Integrations Web Service provides an operation that informs external systems of Integration Events that have been triggered from within Workday. The WSDL for this service provides the structure that needs to be implemented by an external system to receive event "Launch" information.",1
+"Financial_Aid.wsdl","This web service is for the Financial Aid module",37
+"Financial_Management.wsdl","The Financial Management Web Service contains operations that expose Workday Financials data. It includes data relative to Accounts, Accounting, Business Plans, Financial Reporting, Tax, Financial Organizations, Basic Worktags, Related Worktags and more.",230
+"Human_Resources.wsdl","The Human Resources Web Service contains operations that expose Workday Human Capital Management Business Services data, including Employee, Contingent Worker and Organization information. This Web Service can be used for integration with enterprise systems including corporate directories, data analysis tools, email or other provisioning sub-systems, or any other systems needing Worker and/or Organization data.",190
+"Identity_Management.wsdl","The Identity Management Web Service contains operations that relate to Workday Identity and Access Management.",2
+"Integrations.wsdl","This Web Service contains operations related to all Integrations within the Workday system.",25
+"Interview_Feedback.wsdl","Submits Interview Feedback for Interviewers on the Interview Schedule. Also, allows you to move a candidate to the next stage of the business process.",2
+"Inventory.wsdl","The Inventory Web Service contains operations that expose Workday Financials Inventory data.",57
+"Learning.wsdl","The Learning Web Service contains operations for creating, editing and retrieving Workday Learning related data such Courses, Course Offerings and Enrollments.",21
+"Notification.wsdl","The Notification Web Service provides an operation that informs external systems of business events that occur within Workday. The WSDL for this service provides the structure that needs to be implemented by an external system to receive notifications for their subscribed Workday business events. Subscriptions and Notification details (i.e. Endpoint and security information) are defined within the Workday application.",1
+"Payroll.wsdl","The Workday Payroll Web Service contains operations that expose Workday Payroll data for integration with third parties (such as time and attendance).",78
+"Payroll_CAN.wsdl","The Workday Payroll CAN Web Service contains operations that expose Workday Payroll CAN data for integration with third parties (such as time and attendance).",1
+"Payroll_FRA.wsdl","The Workday Payroll FRA Web Service contains operations that expose Workday Payroll FRA data for integration with third parties",2
+"Payroll_GBR.wsdl","The Workday Payroll GBR Web Service contains operations that expose Workday UK Payroll data for integration with third parties.",44
+"Payroll_Interface.wsdl","The Payroll Interface Web Service contains operations that  expose Workday Human Capital Management Business Services data for integration with external payroll systems.",15
+"Performance_Management.wsdl","The Performance Management Web Service contains operations that expose Workday Employee Performance Management Business Services data. This Web Service can be used for integration with other employee performance management  systems.",32
+"Professional_Services_Automation.wsdl","The Professional Services Automation Web Service contains operations that expose Workday Financials Business Services data for integration with Professional Services Automation (PSA) systems.",2
+"Recruiting.wsdl","The Recruiting Web Service contains operations that expose Workday Human Capital Management Business Services data for integration with Talent Management and Applicant Tracking systems.",70
+"Resource_Management.wsdl","The Resource Management  Web Service contains operations that expose Workday Financials Resource Management data. It includes data relative to Suppliers, Supplier Accounts, Expenses, Business Assets and Projects.",233
+"Revenue_Management.wsdl","The Revenue Management  Web Service contains operations that expose Workday Financials Revenue Management data. It includes data relative to Customers, Customer Accounts, Prospect and Opportunities.",187
+"Settlement_Services.wsdl","Web Service used for settlement management and services.",15
+"Staffing.wsdl","The Staffing Web Service operations expose Workday Human Capital Management Business Services and data. These services pertain to staffing transactions for both employees and contingent workers, such as bringing employees and contingent workers on board.",81
+"State_Machine.wsdl","For Passing Triggers to the State Machine",1
+"Student_Finance.wsdl","Web service for creating, editing and retrieving objects related to Student Finance, such as charges and payments for Students.",22
+"Student_Records.wsdl","Web Service for creating, editing and retrieving objects related to Student Records, such as Student Courses, Sections etc.",86
+"Student_Recruiting.wsdl","Web Service for creating, editing and retrieving objects related to Student Recruiting, such as Student Recruiting Events, Campaigns, Cycles, Recruiters, and Prospects.",33
+"Talent.wsdl","This web service consists of operations for interfacing with the Workday Talent Management web service operations.",90
+"Tenant_Data_Translation.wsdl","Public Web Service to export and import translatable tenant data",4
+"Time_Tracking.wsdl","Operations for importing and exporting time and work schedule information.",6
+"Workday_Connect.wsdl","Get and put web services used for communication capabilities across applications.",2
+"Workday_Extensibility.wsdl","Public Web Service for extensibility features across applications.",2
+"Workforce_Planning.wsdl","The Workforce Planning Web Service operations expose Workforce Planning Business Services and data.",6
+43 wsdls, 1850 operations (43)
